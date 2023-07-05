@@ -1,2 +1,2 @@
 # AnimatedTemplate
-Practicing some designs
+Practicing some designs.
