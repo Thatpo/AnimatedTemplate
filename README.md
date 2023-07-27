@@ -1,2 +1,0 @@
-# AnimatedTemplate
-Practicing some designs.
